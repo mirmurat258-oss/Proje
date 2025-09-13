@@ -11,7 +11,26 @@ namespace API.Data
 
         public void EnsureDatabaseCreated()
         {
-            this.Database.EnsureCreated();
+            if (this.Database.EnsureCreated())
+            {
+                SeedData();
+            }
+        }
+        private void SeedData()
+        {
+            if (!Users.Any())
+            {
+                Users.Add(new User
+                {
+                    Id = Guid.NewGuid(),
+                    Password="admin",
+                    Username  ="admin",
+                });
+
+                SaveChanges();
+            }
         }
     }
 }
+
+
