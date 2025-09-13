@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mboyali\\source\\repos\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\proje.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\proje.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|c:\\users\\mboyali\\source\\repos\\proje\\proje\\proje.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28627617-FC6D-4195-9772-3D0AD6A2266C}|Proje\\Proje.csproj|solutionrelative:proje\\proje.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Proje\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\appsettings.Development.json",
+              "RelativeToolTip": "Proje\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:01:32.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proje.csproj",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.csproj",
+              "RelativeDocumentMoniker": "Proje\\Proje.csproj",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.csproj",
+              "RelativeToolTip": "Proje\\Proje.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T13:34:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Proje\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Services\\StudentService.cs",
+              "RelativeToolTip": "Proje\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:24:49.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Proje\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Models\\Student.cs",
+              "RelativeToolTip": "Proje\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:24:19.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Proje\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Proje\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIA1wFgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:45:51.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Proje\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Proje\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:42:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Proje\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Models\\User.cs",
+              "RelativeToolTip": "Proje\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:42:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Proje\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Proje\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:20:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Program.cs",
+              "RelativeDocumentMoniker": "Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Program.cs",
+              "RelativeToolTip": "Proje\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:31:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proje.http",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.http",
+              "RelativeDocumentMoniker": "Proje\\Proje.http",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.http",
+              "RelativeToolTip": "Proje\\Proje.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-13T08:10:25.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Proje\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Services\\UserService.cs",
+              "RelativeToolTip": "Proje\\Services\\UserService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwvwsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:46:50.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\appsettings.json",
+              "RelativeDocumentMoniker": "Proje\\appsettings.json",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\appsettings.json",
+              "RelativeToolTip": "Proje\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T08:10:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Proje\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Proje\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:25:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Proje",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.csproj",
+              "RelativeDocumentMoniker": "Proje\\Proje.csproj",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\Proje\\Proje.csproj",
+              "RelativeToolTip": "Proje\\Proje.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T08:13:04.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
