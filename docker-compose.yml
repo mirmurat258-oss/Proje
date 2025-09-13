@@ -1,4 +1,4 @@
-services:
+﻿services:
   api:
     image: ${DOCKER_REGISTRY-}api
     build:
@@ -7,6 +7,8 @@ services:
     networks:
       general-development-network:
         ipv4_address: 10.7.0.2
+    ports:
+      - "5000:5000"
   db:
     image: bitnami/postgresql
     container_name: my_postgres_db
