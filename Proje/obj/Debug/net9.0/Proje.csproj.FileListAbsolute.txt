@@ -1,5 +1,0 @@
-C:\Users\mboyali\source\repos\Proje\Proje\obj\Debug\net9.0\Proje.csproj.AssemblyReference.cache
-C:\Users\mboyali\source\repos\Proje\Proje\obj\Debug\net9.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mboyali\source\repos\Proje\Proje\obj\Debug\net9.0\Proje.AssemblyInfoInputs.cache
-C:\Users\mboyali\source\repos\Proje\Proje\obj\Debug\net9.0\Proje.AssemblyInfo.cs
-C:\Users\mboyali\source\repos\Proje\Proje\obj\Debug\net9.0\Proje.csproj.CoreCompileInputs.cache
