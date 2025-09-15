@@ -62,6 +62,8 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication(); // JWT için eklendi
@@ -69,6 +71,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 
- 
+app.UseStaticFiles();
+app.MapFallbackToFile("index.html");
+
+
 app.Run();
 

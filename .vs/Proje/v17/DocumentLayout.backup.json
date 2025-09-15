@@ -1,10 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dev\\Desktop\\test\\Proje\\",
+  "WorkspaceRootPath": "C:\\Users\\mboyali\\source\\repos\\Proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\test\\proje\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user-form\\user-form.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user-form\\user-form.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\models\\user.model.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\models\\user.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\mboyali\\source\\repos\\proje\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\mboyali\\source\\repos\\proje\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\mboyali\\source\\repos\\proje\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\mboyali\\source\\repos\\proje\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user-list\\user-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user-list\\user-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\src\\app\\user\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAD60E-66AA-404C-94D6-6BA987B988B2}|..\\Web\\Web.esproj|c:\\users\\mboyali\\source\\repos\\web\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +86,307 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\test\\Proje\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dev\\Desktop\\test\\Proje\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-13T19:02:08.018Z",
+              "DocumentIndex": 1,
+              "Title": "user.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.spec.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user.spec.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.spec.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-15T19:40:18.269Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user-form.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-form\\user-form.spec.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user-form\\user-form.spec.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-form\\user-form.spec.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user-form\\user-form.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-15T19:39:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-15T19:34:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T19:34:17.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user.model.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\models\\user.model.spec.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\models\\user.model.spec.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\models\\user.model.spec.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\models\\user.model.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:58:48.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.model.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\models\\user.model.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\models\\user.model.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\models\\user.model.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\models\\user.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:52:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user.service.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.service.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user.service.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.service.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:42:23.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "user-list.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-list\\user-list.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user-list\\user-list.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-list\\user-list.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user-list\\user-list.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:26:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user-module.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-module.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user-module.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-module.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:13:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\app.spec.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T09:06:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T08:57:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\app-routing-module.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\app-routing-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T09:00:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\main.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\main.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\main.ts",
+              "RelativeToolTip": "..\\Web\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T09:06:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user-form.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-form\\user-form.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user-form\\user-form.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-form\\user-form.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user-form\\user-form.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T11:55:41.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "user-list.html",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-list\\user-list.html",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user-list\\user-list.html",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user-list\\user-list.html",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user-list\\user-list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-14T11:26:19.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:54:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Proje\\API\\Models\\User.cs",
+              "RelativeToolTip": "API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:54:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\index.html",
+              "RelativeDocumentMoniker": "..\\Web\\src\\index.html",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\index.html",
+              "RelativeToolTip": "..\\Web\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-14T09:06:09.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T09:04:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\app.html",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app.html",
+              "RelativeToolTip": "..\\Web\\src\\app\\app.html",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAkwM8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-14T09:00:26.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "user.css",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.css",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user.css",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.css",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-14T08:57:34.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "user.html",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.html",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\user\\user.html",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\user\\user.html",
+              "RelativeToolTip": "..\\Web\\src\\app\\user\\user.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-14T08:57:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "..\\Web\\src\\app\\app-module.ts",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\src\\app\\app-module.ts",
+              "RelativeToolTip": "..\\Web\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-14T06:48:28.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\mboyali\\source\\repos\\Web\\tsconfig.json",
+              "RelativeDocumentMoniker": "..\\Web\\tsconfig.json",
+              "ToolTip": "C:\\Users\\mboyali\\source\\repos\\Web\\tsconfig.json",
+              "RelativeToolTip": "..\\Web\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-14T06:48:21.594Z"
             }
           ]
         }
