@@ -1,21 +1,27 @@
-﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using API.Conf;
+using API.Data;
+using API.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;
 using System.Text;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-using API.Data;
-using API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
+builder.Services.AddScalarWithJWT();
 // JWT Authentication
 var jwtSettings = builder.Configuration.GetSection("Jwt");
 builder.Services.AddAuthentication(options =>
@@ -51,24 +57,25 @@ using (var scope = app.Services.CreateScope())
 }
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
-    app.MapScalarApiReference(options =>
-    {
-        options.Title = "Web Api Çalışma";
-        options.Theme = ScalarTheme.BluePlanet;
-        options.DefaultHttpClient = new(ScalarTarget.CSharp, ScalarClient.HttpClient);
-        options.CustomCss = "";
-        options.ShowSidebar = true;
-    });
+    app.UseScalarUI();
+    //app.MapOpenApi();
+    //app.MapScalarApiReference(options =>
+    //{
+    //    options.Title = "Web Api Çalışma";
+    //    options.Theme = ScalarTheme.BluePlanet;
+    //    options.DefaultHttpClient = new(ScalarTarget.CSharp, ScalarClient.HttpClient);
+    //    options.CustomCss = "";
+    //    options.ShowSidebar = true;
+    //});
 }
 
 
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthentication(); // JWT için eklendi
 app.UseAuthorization();
-
+app.UseCors("AllowAll");
 app.MapControllers();
 
 app.UseStaticFiles();
