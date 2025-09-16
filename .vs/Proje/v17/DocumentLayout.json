@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Dev\\Desktop\\Proje\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\proje\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\proje\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\proje\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\proje\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -37,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|c:\\users\\dev\\desktop\\proje\\api\\conf\\openapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B62DF7-98CD-459B-9C22-0D6F80AE3550}|API\\API.csproj|solutionrelative:api\\conf\\openapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\dev\\desktop\\proje\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dev\\Desktop\\Proje\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:19:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T20:15:53.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:53.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -71,25 +87,23 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-15T20:15:50.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:50.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "docker-compose",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
               "ToolTip": "C:\\Users\\Dev\\Desktop\\Proje\\docker-compose.dcproj",
               "RelativeToolTip": "docker-compose.dcproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T20:15:47.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:47.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -97,8 +111,7 @@
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T20:15:45.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:45.856Z"
             },
             {
               "$type": "Document",
@@ -110,8 +123,7 @@
               "RelativeToolTip": "API\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T20:15:37.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:37.582Z"
             },
             {
               "$type": "Document",
@@ -123,12 +135,11 @@
               "RelativeToolTip": "API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T20:15:23.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:15:23.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\Proje\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -149,8 +160,7 @@
               "RelativeToolTip": "API\\Conf\\ServiceCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T20:11:46.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:11:46.165Z"
             },
             {
               "$type": "Document",
@@ -162,8 +172,7 @@
               "RelativeToolTip": "API\\Conf\\OpenApiExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T20:11:39.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T20:11:39.401Z"
             }
           ]
         }

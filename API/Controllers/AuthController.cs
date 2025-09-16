@@ -1,4 +1,5 @@
-﻿using API.Services;
+﻿using API.Models;
+using API.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -26,13 +27,13 @@ namespace API.Controllers
             var user = await _userService.AuthenticateAsync(model.Username, model.Password);
             if (user != null)
             {
-                var token = GenerateJwtToken(user.Username);
+                var token = GenerateJwtToken(user);
                 return Ok(new { token });
             }
             return Unauthorized();
         }
 
-        private string GenerateJwtToken(string username)
+        private string GenerateJwtToken(User user)
         {
             var jwtSettings = _configuration.GetSection("Jwt");
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Key"]));
@@ -40,7 +41,8 @@ namespace API.Controllers
 
             var claims = new[]
             {
-                new Claim(ClaimTypes.Name, username)
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                new Claim(ClaimTypes.Name, user.Username)
             };
 
             var token = new JwtSecurityToken(
